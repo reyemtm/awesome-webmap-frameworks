@@ -1,5 +1,5 @@
 # awesome-webmap-frameworks
-A list of tools and frameworks to generate fully functional webmaps. Contributing welcome.
+A list of tools and frameworks to generate fully functional webmaps. Suggestions welcome.
 
 
 https://www.geomoose.org/
